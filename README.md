@@ -4,7 +4,10 @@ This project is only meant for educational purposes.
 ## Extracted data
 This project extracts the tables present at the mentioned site iteratively.The extracted data is looks like this sample(KEY,PAIR):
 
-OrderedDict([(u'State', u'Andaman & Nicobar Islands'), (u'No. of Applications Received', u'12'), (u'No. of Applications Not Verified', u'9'), (u'No. of Applications Verified', u'0'), (u'No. of Applications Approved', u'0'), (u'No. of Applications Approved having Aadhar No.', u'0'), (u'No. of Applications Rejected', u'0'), (u'No. of Applications Pullback', u'0'), (u'No. of Applications Closed', u'3'), (u'No. of Constructed Toilet Photo', u'0'), (u'No. of Commenced Toilet Photo', u'0'), (u'No. of Constructed Toilet Photo through Swachhalaya', u'46')])
+{
+"No. of Applications Closed": "3", "No. of Applications Rejected": "0", "No. of Applications Pullback": "0", "No. of Commenced Toilet Photo": "0", "No. of Applications Not Verified": "9", "No. of Applications Verified": "0", "State": "Andaman & Nicobar Islands", "No. of Applications Received": "12", "No. of Applications Approved having Aadhar No.": "0", "No. of Constructed Toilet Photo": "0", "No. of Applications Approved": "0", "No. of Constructed Toilet Photo through Swachhalaya": "46"},
+{"No. of Applications Closed": "180034", "No. of Applications Rejected": "0", "No. of Applications Pullback": "30", "No. of Commenced Toilet Photo": "25", "No. of Applications Not Verified": "15766", "No. of Applications Verified": "192514", "State": "Andhra Pradesh", "No. of Applications Received": "388344", "No. of Applications Approved having Aadhar No.": "192331", "No. of Constructed Toilet Photo": "192887", "No. of Applications Approved": "192508", "No. of Constructed Toilet Photo through Swachhalaya": "39"
+}
 
 
 ## Spiders
